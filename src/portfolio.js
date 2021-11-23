@@ -139,7 +139,7 @@ const educationInfo = {
 };
 
 // Your top 3 proficient stacks/tech experience
-
+/*
 const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
@@ -158,7 +158,7 @@ const techStack = {
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
-
+*/
 // Work experience section
 
 const workExperiences = {
@@ -356,12 +356,12 @@ const contactInfo = {
 };
 
 // Twitter Section
-
+/*
 const twitterDetails = {
   userName: "twitter", //Replace "twitter" with your twitter username without @
   display: true // Set true to display this section, defaults to false
 };
-
+*/
 export {
   illustration,
   greeting,
