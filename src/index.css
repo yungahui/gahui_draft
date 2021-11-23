@@ -12,6 +12,12 @@
     url("./assets/fonts/Montserrat-Regular.ttf") format("woff");
   font-display: swap;
 }
+@font-face {
+  font-family: "HelveticaNeue";
+  src: local("HelveticaNeue"),
+    url("./assets/fonts/HelveticaNeue.woff") format("woff");
+  font-display: swap;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
